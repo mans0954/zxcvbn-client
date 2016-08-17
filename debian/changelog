@@ -1,0 +1,5 @@
+zxcvbn-client (0.01-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Christopher Hoskin <christopher.hoskin@gmail.com>  Wed, 17 Aug 2016 09:27:06 +0100
